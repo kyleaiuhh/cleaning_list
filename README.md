@@ -1,2 +1,2 @@
-# cleaning_list
-List of things to clean
+This was to practice using git 
+
