@@ -1,0 +1,6 @@
+To clean:
+- Bathroom
+- Dining Room
+- Garage
+- Second bathroom
+
